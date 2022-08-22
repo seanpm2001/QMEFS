@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+QMEFS (Quantum Meadows ETERNAL File System) is a 256-bit flexible file system designed to be the ultimate file system. It is also the default file system of the qMeadows operating system.
